@@ -30,6 +30,7 @@ requirements:
     - pip
     - setuptools
     - scikit-build
+    - scikit-build-core
     - cuda-version {{ cuda_compiler_version }}
 
   run:
